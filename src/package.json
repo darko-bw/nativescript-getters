@@ -1,6 +1,6 @@
 {
   "name": "nativescript-getters",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -24,7 +24,7 @@
   },
   "peerDependencies": {
     "@nativescript-community/ui-material-core": "5.x",
-    "@nativescript/core": "8.x"
+    "@nativescript/core": "^7.0.0 || ^9.0.0"
   },
   "peerDependenciesMeta": {
     "@nativescript-community/ui-material-core": {
